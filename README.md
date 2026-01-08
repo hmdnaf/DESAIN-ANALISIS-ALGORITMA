@@ -51,11 +51,4 @@ Daftar Item Terpilih  :
 - Tenda Darurat (Berat: 12, Nilai: 80)
 - Kotak Obat (Berat: 2, Nilai: 95)```
   
-### 👥 Identitas Kelompok
-Nama Anggota 1: [Isi Nama Anda]
 
-Nama Anggota 2: [Isi Nama Teman Anda]
-
-Mata Kuliah: Desain Analisis Algoritma
-
-Tanggal: 4 Januari 2026
